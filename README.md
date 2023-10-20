@@ -21,7 +21,7 @@
 
 ## Introduction
 
-The Real-Time Road Damage Detection project is a Python application that aims to identify and visualize various types of road damage in images. It utilizes deep learning models for object detection and provides real-time feedback on road damage instances in uploaded images.
+The Real-Time Road Damage Detection project is a Python application that aims to identify and visualize various types of road damage in images. It utilizes deep learning models for object detection and provides real-time feedback on road damage instances in uploaded images. Dataset and models that are used to build this application are uploaded in this following link https://drive.google.com/drive/folders/1r4yNniq0kE05Ph5NqL9lzTmLXXT-0ZjP?usp=share_link.
 
 ## Project Overview
 
